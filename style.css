@@ -1,0 +1,34 @@
+#wripper
+{
+	margin:0% auto 0% auto;
+	background-color:inherit;
+    position: relative;
+	min-height:100%;
+}
+#konten
+{
+	width:60%;
+	height:90%;
+    margin:0% auto 0% auto;
+	border-radius: 5px;
+    margin-bottom:20px;
+    padding: 19px;
+	background:#FFF;opacity:0.95;
+	border-bottom-left-radius:3%;
+	border-bottom-right-radius:3%;
+}
+body{
+background-image: url(8.jpg);
+background-size: cover;
+}
+h1{
+   
+    color: grey;
+    font-family: roboto;
+    margin: 0% auto 0% auto;
+}
+td{
+    color: rgb(70, 69, 67);
+    font-family: Roboto;
+    font-size: 20px;
+}
